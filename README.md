@@ -1,2 +1,2 @@
 # ikt-ppt
-Az ikt ppt fejlődésének kommentálása
+Az ikt ppt fejlődésének kommentálása.
